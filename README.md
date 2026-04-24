@@ -49,7 +49,7 @@ curl 4: POST http://localhost:8080/coursework_clientServerArc/api/v1/sensors
 payload
 
 filter sensors
-curl 5: GET "http://localhost:8080/coursework_clientServerArc/api/v1/sensors?type=CO2"
+curl 5: GET "http://localhost:8080/coursework_clientServerArc/api/v1/sensors?type=CO2
 
 questions
 
