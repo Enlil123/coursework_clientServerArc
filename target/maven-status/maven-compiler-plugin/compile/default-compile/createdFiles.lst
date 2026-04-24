@@ -1,0 +1,16 @@
+LoggingFilter.class
+RoomNotEmptyMapper.class
+RootResource.class
+ErrorMessage.class
+Room.class
+Sensor.class
+RoomResource.class
+GeneralExceptionMapper.class
+RoomNotEmptyException.class
+RoomNotFoundMapper.class
+DataStore.class
+NotFoundRequestMapper.class
+SensorResource.class
+RoomNotFoundException.class
+ApiApplication.class
+DataNotFoundException.class
